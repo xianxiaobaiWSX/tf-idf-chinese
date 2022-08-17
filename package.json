@@ -1,0 +1,21 @@
+{
+  "name": "tf-idf-chinese",
+  "version": "1.0.1",
+  "description": "",
+  "main": "vector_space.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "tf-idf",
+    "query",
+    "search",
+    "中文搜索匹配",
+    "tf-idf中文"
+  ],
+  "author": "xianxiaobai",
+  "license": "MIT",
+  "dependencies": {
+    "segment": "^0.1.3"
+  }
+}
